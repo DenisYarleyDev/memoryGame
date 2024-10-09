@@ -1,8 +1,8 @@
-<h3>Jogo da memória JS</h3>
-Dev: Denis Yarley
-Git: https://github.com/DenisYarleyDev
-Versão:  1.0
-data: 09/10/2024
+<h3>Jogo da memória JS</h3> <br>
+Dev: Denis Yarley <br>
+Git: https://github.com/DenisYarleyDev <br>
+Versão:  1.0 <br>
+data: 09/10/2024 <br>
 
 <h3>Lógica de game:</h3>
 Sempre que o jogo for reiniciado as cartas mudarão de posição de forma aleatória proporcioanndo sempre um tabuleiro diferente para cada novo jogo com 2.375.880.867.360.000 combinações possíveis.<br>
